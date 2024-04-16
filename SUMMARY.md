@@ -1,7 +1,7 @@
 # Table of contents
 
 * [QURE Chain Introduction](README.md)
-* [What is QURE Chain?](what-is-qure-chain.md)
+* [$QURE - Incentive for the Cure](usdqure-incentive-for-the-cure.md)
 * [Qure XR](qure-xr.md)
 * [DeSci Layer 2 - Liquid, Native Yield](desci-layer-2-liquid-native-yield.md)
 * [QURE Chain & HealthZK Ecosystem](qure-chain-and-healthzk-ecosystem.md)
