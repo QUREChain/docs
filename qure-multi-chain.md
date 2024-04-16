@@ -2,7 +2,7 @@
 description: EVM-Compatibility and Iron-Clad Bridges make QURE Chain Universal
 ---
 
-# Multi-Chain Interoperability
+# QURE Multi-Chain
 
 Interoperability within the QURE Chain is achieved through cross-chain bridges and compliance with established standards, facilitating seamless interaction with other blockchain networks. This approach enhances collaborative opportunities across different platforms. &#x20;
 
