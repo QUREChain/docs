@@ -1,8 +1,8 @@
 ---
-description: Blockchain for the Cure
+description: Rewards for finding the Cure
 ---
 
-# What is QURE Chain?
+# $QURE - Incentive for the Cure
 
 Why do we need another L2?  Today, no home exists for the biopharmaceutical or healthcare industry to create EVM-native ZK applications.  Health and scientific information is highly sensitive, and zero-knowledge proofs are the panacea for their safety and security.  Thus, creating the perfect environment for ZK applications to exist is critical.
 
