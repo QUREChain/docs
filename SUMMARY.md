@@ -10,7 +10,7 @@
 * [Validator Staking](validator-staking.md)
 * [QURE Governance](qure-governance.md)
 * [Scalability Solutions](scalability-solutions.md)
-* [Multi-Chain Interoperability](multi-chain-interoperability.md)
+* [QURE Multi-Chain Interoperability](qure-multi-chain-interoperability.md)
 * [Smart Contracts](smart-contracts.md)
 * [Privacy Features](privacy-features.md)
 * [Security Mechanisms](security-mechanisms.md)
