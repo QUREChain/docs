@@ -2,13 +2,13 @@
 description: Rewards for finding the Cure
 ---
 
-# $QURE - Incentive for the Cure
+# $QURE - Incentives for the Cure
 
 Why do we need another L2?  Today, no home exists for the biopharmaceutical or healthcare industry to create EVM-native ZK applications.  Health and scientific information is highly sensitive, and zero-knowledge proofs are the panacea for their safety and security.  Thus, creating the perfect environment for ZK applications to exist is critical.
 
 Current L1 and L2 solutions do not fully address the needs of ZK applications to deploy and grow users in a scalable manner.  The additional demands of the biopharmaceutical and healthcare industries – conservative, slow-moving, meticulous, rigorous – necessitate a community and ecosystem that can deliver to their specific needs.  HealthZK is our framework for developers to build EVM-native ZK applications in healthcare using Solidity smart contracts and dApps.
 
-QURE Chain is an EVM-compatible ZK-native Layer-2 modular blockchain built to accelerate scientific discovery and treatment in healthcare by providing a unique incentivized technology platform to democratize science and speed discovery and development. QURE is more than just a Layer-2 blockchain—it's an ecosystem of technology that enables humanity to discover cures faster, with the best user experience available - Extended Reality (XR).
+[QURE Chain](https://www.qurechain.com) is an EVM-compatible ZK-native Layer-2 modular blockchain built to accelerate scientific discovery and treatment in healthcare by providing a unique incentivized technology platform to democratize science and speed discovery and development. QURE is more than just a Layer-2 blockchain—it's an ecosystem of technology that enables humanity to discover cures faster, with the best user experience available - Extended Reality (XR).
 
 QURE Chain’s unique economic model incorporates the concept of liquid staking with interest-bearing, government-backed, and BRICS bonds with our ERC20 token, $QURE.  The rewards mechanism is implemented via the “shares” concept, where rewards are paid to liquid-staked token holders daily.
 
