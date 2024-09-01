@@ -4,7 +4,7 @@ description: Fix and Fund Science for the Cure
 
 # QURE Chain Introduction
 
-What part of science isn’t broken?  Profits drive research; if a cure isn’t profitable for a multinational, it doesn’t get the R\&D.  Patients, caregivers, and researchers are at the mercy of a geopolitical, economic system that disincentives the very behavior that everyone wants to incentivize – speeding cures to patients.  [QURE Chain](https://www.qurechain.com) is a new paradigm needed to fix science that gives patients and researchers a voice - but choices in how cures are researched and developed:  A voice and a choice in the end-to-end process of developing any cure.
+What part of science isn’t broken?  Profits drive research; if a cure isn’t profitable for a multinational, it doesn’t get the R\&D.  Patients, caregivers, and researchers are at the mercy of a geopolitical, economic system that disincentives the very behavior that everyone wants to incentivize – speeding cures to patients.  [QURE Chain](https://www.qurechain.com) is what is needed to fix science and gives patients and researchers a voice - and choices in how cures are researched and developed:  A voice and a choice in the end-to-end process of developing any cure.
 
 [QURE Chain](https://www.qurechain.com) empowers post-clinical and post-development activities beyond the R\&D and discovery process. Because all the data and intelligence are already provided, the manufacturing and distribution activities of the cures developed on the platform will be enabled. The blockchain's composability gives rise to higher-level applications further down the pipeline, such as scale-up manufacturing and supply chain management.
 
