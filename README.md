@@ -10,7 +10,7 @@ What part of science isn’t broken?  Profits drive research; if a cure isn’t 
 
 A wave of concern regarding the reproducibility of pre-clinical studies has swept across the life science domain, with an unsettling volume of pre-clinical studies identified as irreproducible \[1,2]. This “Reproducibility Crisis” fuels unwarranted optimism among patients and unveils glaring inefficiencies in the execution, design, and disclosure of pre-clinical investigations. This crisis is further underlined by emerging questions surrounding the efficacy of the current peer-review mechanism itself \[3]. The emergence of Post-Publication Peer Scrutiny Platforms, data dissemination, and open-access publishing provides a fresh lens to identify irreproducible research \[4].
 
-By providing an environment that fosters the development of a decentralized peer-review platform, QURE will first embark upon its mission to create an incentivized Layer-1 blockchain solution and then to attract existing DAOs and decentralized science applications and communities to the platform with these economic incentives and superior technology options.
+By providing an environment that fosters the development of a decentralized peer-review platform, QURE will embark upon its mission to create an incentivized Layer-1 blockchain solution and then to attract existing DAOs and decentralized science applications and communities to the platform with these economic incentives and superior technology options.
 
 QURE Is The Solution
 
